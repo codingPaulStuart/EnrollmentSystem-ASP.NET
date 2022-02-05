@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="spsModel.CRN">
+    <Position X="0.5" Y="1.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>QAEEAAAAAAEAAAAEgAAAACAAACAAAIAAAAAAAAAAAoA=</HashCode>
+      <FileName>Model\CRN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="spsModel.Location">
+    <Position X="4.5" Y="4.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAkgAAAAAAAAAAAAIAAAAAIAAAIAAA=</HashCode>
+      <FileName>Model\Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spsModel.StudyPlan">
+    <Position X="9.25" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAACAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\StudyPlan.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="spsModel.DAO.DaoSps">
+    <Position X="13" Y="4.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIEAAAAAAAAAAAAAAEAECAAAAgAAAAAIgAAAAAAAQ=</HashCode>
+      <FileName>DAO\DaoSps.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="spsModel.Model.Award">
+    <Position X="7" Y="8" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAEAAAAAAAAAFAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Award.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spsModel.Model.UnitsOfComptency">
+    <Position X="11" Y="8.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAMgAAAAAAAAAAAAIAAAAAEECAAAAA=</HashCode>
+      <FileName>Model\UnitsOfCompetency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spsModel.Model.Person">
+    <Position X="0.5" Y="6.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Model\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spsModel.Model.Student">
+    <Position X="0.5" Y="9.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAACAAA=</HashCode>
+      <FileName>Model\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spsModel.Model.Lecturer">
+    <Position X="3.25" Y="9.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAIAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Lecturer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spsModel.Subject">
+    <Position X="16" Y="8.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAIiA=</HashCode>
+      <FileName>Model\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spsModel.Grade">
+    <Position X="19" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAkCAAgAAAAAgEAAggAIACAQAACgACAig=</HashCode>
+      <FileName>Model\Grade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="spsModel.IStudyPlan">
+    <Position X="7.75" Y="0.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAACAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\IStudyPlan.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="spsModel.DAO.IDaoSPS">
+    <Position X="12" Y="0.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIEAAAAAAAAAAAAAAEAECAAAAgAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>DAO\IDaoSPS.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
